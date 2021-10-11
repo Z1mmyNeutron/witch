@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css?family=Baskinville');
+.Header{
+    /* background-image:url("../../../images/Picsart.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh; */
+  background-color:#334667;
+  font-family:"baskinville";
+}
+.graphicDesign{ 
+  background-repeat: repeat;
+  background-position: left;
+  }
