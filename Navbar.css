@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css?family=Baskinville');
+
+
+.x {
+  font-family: 'Josefin Sans', cursive;
+}
+
+
+
+.Link:active{
+    color:white;
+    text-decoration: none;
+   
+   
+}
+.Link:hover{
+  color:white;
+}
+.Link:visited{
+  color:white;
+}
+
+.Link{
+    color:white;
+    text-decoration: none;
+    font-family: 'Baskinville';
+
+}
+.navBrow{
+  /* background-image:url("../../../images/NavHeader.jpg"); */
+  background-repeat: repeat;
+  background-position: left;
+  background-color:#334667;
+}
+.leftBrow{
+  /* background-image:url("../../../images/NavHeader.jpg"); */
+  background-color:#334667;
+  background-repeat: repeat;
+  background-position: left;
+  
+}
